@@ -1,0 +1,8 @@
+D:\Documents\HK2(2022-2023)\C#\ThuVien\bin\Debug\ThuVien.exe.config
+D:\Documents\HK2(2022-2023)\C#\ThuVien\bin\Debug\ThuVien.exe
+D:\Documents\HK2(2022-2023)\C#\ThuVien\bin\Debug\ThuVien.pdb
+D:\Documents\HK2(2022-2023)\C#\ThuVien\obj\Debug\ThuVien.csproj.AssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\ThuVien\obj\Debug\ThuVien.csproj.SuggestedBindingRedirects.cache
+D:\Documents\HK2(2022-2023)\C#\ThuVien\obj\Debug\ThuVien.csproj.CoreCompileInputs.cache
+D:\Documents\HK2(2022-2023)\C#\ThuVien\obj\Debug\ThuVien.exe
+D:\Documents\HK2(2022-2023)\C#\ThuVien\obj\Debug\ThuVien.pdb

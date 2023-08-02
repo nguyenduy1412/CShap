@@ -1,0 +1,8 @@
+D:\Documents\HK2(2022-2023)\C#\HuongDoiTuong\bin\Debug\HuongDoiTuong.exe.config
+D:\Documents\HK2(2022-2023)\C#\HuongDoiTuong\bin\Debug\HuongDoiTuong.exe
+D:\Documents\HK2(2022-2023)\C#\HuongDoiTuong\bin\Debug\HuongDoiTuong.pdb
+D:\Documents\HK2(2022-2023)\C#\HuongDoiTuong\obj\Debug\HuongDoiTuong.csproj.AssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\HuongDoiTuong\obj\Debug\HuongDoiTuong.csproj.SuggestedBindingRedirects.cache
+D:\Documents\HK2(2022-2023)\C#\HuongDoiTuong\obj\Debug\HuongDoiTuong.csproj.CoreCompileInputs.cache
+D:\Documents\HK2(2022-2023)\C#\HuongDoiTuong\obj\Debug\HuongDoiTuong.exe
+D:\Documents\HK2(2022-2023)\C#\HuongDoiTuong\obj\Debug\HuongDoiTuong.pdb

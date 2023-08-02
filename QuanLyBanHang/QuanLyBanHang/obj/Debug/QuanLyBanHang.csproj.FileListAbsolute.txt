@@ -1,0 +1,13 @@
+D:\Documents\HK2(2022-2023)\C#\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\Documents\HK2(2022-2023)\C#\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\Documents\HK2(2022-2023)\C#\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\Documents\HK2(2022-2023)\C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.DangNhap.resources
+D:\Documents\HK2(2022-2023)\C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.HeThong.resources
+D:\Documents\HK2(2022-2023)\C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\Documents\HK2(2022-2023)\C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+D:\Documents\HK2(2022-2023)\C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\Documents\HK2(2022-2023)\C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\Documents\HK2(2022-2023)\C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.LoaiSanPham.resources
+D:\Documents\HK2(2022-2023)\C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.SanPham.resources
+D:\Documents\HK2(2022-2023)\C#\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.BaoCao.resources

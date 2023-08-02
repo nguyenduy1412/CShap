@@ -1,0 +1,12 @@
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\Bai27\Bai27\bin\Debug\Bai27.exe.config
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\Bai27\Bai27\bin\Debug\Bai27.exe
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\Bai27\Bai27\bin\Debug\Bai27.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\Bai27\Bai27\obj\Debug\Bai27.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\Bai27\Bai27\obj\Debug\Bai27.Properties.Resources.resources
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\Bai27\Bai27\obj\Debug\Bai27.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\Bai27\Bai27\obj\Debug\Bai27.exe
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\Bai27\Bai27\obj\Debug\Bai27.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\Bai27\Bai27\obj\Debug\Bai27.frmMain.resources
+D:\Documents\HK2(2022-2023)\C#\Bai27\Bai27\bin\Debug\Bai27.exe.config
+D:\Documents\HK2(2022-2023)\C#\Bai27\Bai27\obj\Debug\Bai27.exe
+D:\Documents\HK2(2022-2023)\C#\Bai27\Bai27\obj\Debug\Bai27.pdb

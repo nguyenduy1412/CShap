@@ -1,0 +1,8 @@
+D:\Documents\HK2(2022-2023)\C#\Mang\bin\Debug\Mang.exe.config
+D:\Documents\HK2(2022-2023)\C#\Mang\bin\Debug\Mang.exe
+D:\Documents\HK2(2022-2023)\C#\Mang\bin\Debug\Mang.pdb
+D:\Documents\HK2(2022-2023)\C#\Mang\obj\Debug\Mang.csproj.AssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\Mang\obj\Debug\Mang.csproj.SuggestedBindingRedirects.cache
+D:\Documents\HK2(2022-2023)\C#\Mang\obj\Debug\Mang.csproj.CoreCompileInputs.cache
+D:\Documents\HK2(2022-2023)\C#\Mang\obj\Debug\Mang.exe
+D:\Documents\HK2(2022-2023)\C#\Mang\obj\Debug\Mang.pdb

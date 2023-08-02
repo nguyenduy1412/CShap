@@ -1,0 +1,8 @@
+D:\Documents\HK2(2022-2023)\C#\Pannel\Pannel\bin\Debug\Pannel.exe.config
+D:\Documents\HK2(2022-2023)\C#\Pannel\Pannel\bin\Debug\Pannel.exe
+D:\Documents\HK2(2022-2023)\C#\Pannel\Pannel\bin\Debug\Pannel.pdb
+D:\Documents\HK2(2022-2023)\C#\Pannel\Pannel\obj\Debug\Pannel.Form1.resources
+D:\Documents\HK2(2022-2023)\C#\Pannel\Pannel\obj\Debug\Pannel.Properties.Resources.resources
+D:\Documents\HK2(2022-2023)\C#\Pannel\Pannel\obj\Debug\Pannel.csproj.GenerateResource.Cache
+D:\Documents\HK2(2022-2023)\C#\Pannel\Pannel\obj\Debug\Pannel.exe
+D:\Documents\HK2(2022-2023)\C#\Pannel\Pannel\obj\Debug\Pannel.pdb

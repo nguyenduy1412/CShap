@@ -1,0 +1,8 @@
+D:\Documents\HK2(2022-2023)\C#\DeBug\bin\Debug\DeBug.exe.config
+D:\Documents\HK2(2022-2023)\C#\DeBug\bin\Debug\DeBug.exe
+D:\Documents\HK2(2022-2023)\C#\DeBug\bin\Debug\DeBug.pdb
+D:\Documents\HK2(2022-2023)\C#\DeBug\obj\Debug\DeBug.csproj.AssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\DeBug\obj\Debug\DeBug.csproj.SuggestedBindingRedirects.cache
+D:\Documents\HK2(2022-2023)\C#\DeBug\obj\Debug\DeBug.csproj.CoreCompileInputs.cache
+D:\Documents\HK2(2022-2023)\C#\DeBug\obj\Debug\DeBug.exe
+D:\Documents\HK2(2022-2023)\C#\DeBug\obj\Debug\DeBug.pdb

@@ -1,0 +1,9 @@
+D:\Documents\HK2(2022-2023)\C#\Bai29\Bai29\bin\Debug\Bai29.exe.config
+D:\Documents\HK2(2022-2023)\C#\Bai29\Bai29\obj\Debug\Bai29.csprojResolveAssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\Bai29\Bai29\obj\Debug\Bai29.Form1.resources
+D:\Documents\HK2(2022-2023)\C#\Bai29\Bai29\obj\Debug\Bai29.Properties.Resources.resources
+D:\Documents\HK2(2022-2023)\C#\Bai29\Bai29\obj\Debug\Bai29.csproj.GenerateResource.Cache
+D:\Documents\HK2(2022-2023)\C#\Bai29\Bai29\bin\Debug\Bai29.exe
+D:\Documents\HK2(2022-2023)\C#\Bai29\Bai29\bin\Debug\Bai29.pdb
+D:\Documents\HK2(2022-2023)\C#\Bai29\Bai29\obj\Debug\Bai29.exe
+D:\Documents\HK2(2022-2023)\C#\Bai29\Bai29\obj\Debug\Bai29.pdb

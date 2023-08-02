@@ -1,0 +1,9 @@
+D:\Documents\HK2(2022-2023)\C#\Bai8Ktra\Bai8Ktra\bin\Debug\Bai8Ktra.exe.config
+D:\Documents\HK2(2022-2023)\C#\Bai8Ktra\Bai8Ktra\bin\Debug\Bai8Ktra.exe
+D:\Documents\HK2(2022-2023)\C#\Bai8Ktra\Bai8Ktra\bin\Debug\Bai8Ktra.pdb
+D:\Documents\HK2(2022-2023)\C#\Bai8Ktra\Bai8Ktra\obj\Debug\Bai8Ktra.csprojResolveAssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\Bai8Ktra\Bai8Ktra\obj\Debug\Bai8Ktra.Form1.resources
+D:\Documents\HK2(2022-2023)\C#\Bai8Ktra\Bai8Ktra\obj\Debug\Bai8Ktra.Properties.Resources.resources
+D:\Documents\HK2(2022-2023)\C#\Bai8Ktra\Bai8Ktra\obj\Debug\Bai8Ktra.csproj.GenerateResource.Cache
+D:\Documents\HK2(2022-2023)\C#\Bai8Ktra\Bai8Ktra\obj\Debug\Bai8Ktra.exe
+D:\Documents\HK2(2022-2023)\C#\Bai8Ktra\Bai8Ktra\obj\Debug\Bai8Ktra.pdb

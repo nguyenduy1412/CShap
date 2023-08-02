@@ -1,0 +1,9 @@
+D:\Documents\HK2(2022-2023)\C#\Bai28-1\Bai28-1\bin\Debug\Bai28-1.exe.config
+D:\Documents\HK2(2022-2023)\C#\Bai28-1\Bai28-1\bin\Debug\Bai28-1.exe
+D:\Documents\HK2(2022-2023)\C#\Bai28-1\Bai28-1\bin\Debug\Bai28-1.pdb
+D:\Documents\HK2(2022-2023)\C#\Bai28-1\Bai28-1\obj\Debug\Bai28_1.Form1.resources
+D:\Documents\HK2(2022-2023)\C#\Bai28-1\Bai28-1\obj\Debug\Bai28_1.Properties.Resources.resources
+D:\Documents\HK2(2022-2023)\C#\Bai28-1\Bai28-1\obj\Debug\Bai28-1.csproj.GenerateResource.Cache
+D:\Documents\HK2(2022-2023)\C#\Bai28-1\Bai28-1\obj\Debug\Bai28-1.exe
+D:\Documents\HK2(2022-2023)\C#\Bai28-1\Bai28-1\obj\Debug\Bai28-1.pdb
+D:\Documents\HK2(2022-2023)\C#\Bai28-1\Bai28-1\obj\Debug\Bai28_1.Form2.resources

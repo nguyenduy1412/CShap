@@ -1,0 +1,9 @@
+D:\Documents\HK2(2022-2023)\C#\De3Ktra\De3Ktra\bin\Debug\De3Ktra.exe.config
+D:\Documents\HK2(2022-2023)\C#\De3Ktra\De3Ktra\obj\Debug\De3Ktra.csprojResolveAssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\De3Ktra\De3Ktra\obj\Debug\De3Ktra.Form1.resources
+D:\Documents\HK2(2022-2023)\C#\De3Ktra\De3Ktra\obj\Debug\De3Ktra.Properties.Resources.resources
+D:\Documents\HK2(2022-2023)\C#\De3Ktra\De3Ktra\obj\Debug\De3Ktra.csproj.GenerateResource.Cache
+D:\Documents\HK2(2022-2023)\C#\De3Ktra\De3Ktra\bin\Debug\De3Ktra.exe
+D:\Documents\HK2(2022-2023)\C#\De3Ktra\De3Ktra\bin\Debug\De3Ktra.pdb
+D:\Documents\HK2(2022-2023)\C#\De3Ktra\De3Ktra\obj\Debug\De3Ktra.exe
+D:\Documents\HK2(2022-2023)\C#\De3Ktra\De3Ktra\obj\Debug\De3Ktra.pdb

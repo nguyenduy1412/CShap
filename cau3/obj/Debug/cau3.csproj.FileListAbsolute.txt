@@ -1,0 +1,8 @@
+D:\Documents\HK2(2022-2023)\C#\cau3\bin\Debug\cau3.exe.config
+D:\Documents\HK2(2022-2023)\C#\cau3\bin\Debug\cau3.exe
+D:\Documents\HK2(2022-2023)\C#\cau3\bin\Debug\cau3.pdb
+D:\Documents\HK2(2022-2023)\C#\cau3\obj\Debug\cau3.csproj.AssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\cau3\obj\Debug\cau3.csproj.SuggestedBindingRedirects.cache
+D:\Documents\HK2(2022-2023)\C#\cau3\obj\Debug\cau3.csproj.CoreCompileInputs.cache
+D:\Documents\HK2(2022-2023)\C#\cau3\obj\Debug\cau3.exe
+D:\Documents\HK2(2022-2023)\C#\cau3\obj\Debug\cau3.pdb

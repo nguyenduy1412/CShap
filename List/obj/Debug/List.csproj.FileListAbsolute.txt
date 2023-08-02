@@ -1,0 +1,8 @@
+D:\Documents\HK2(2022-2023)\C#\List\bin\Debug\List.exe.config
+D:\Documents\HK2(2022-2023)\C#\List\bin\Debug\List.exe
+D:\Documents\HK2(2022-2023)\C#\List\bin\Debug\List.pdb
+D:\Documents\HK2(2022-2023)\C#\List\obj\Debug\List.csproj.AssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\List\obj\Debug\List.csproj.SuggestedBindingRedirects.cache
+D:\Documents\HK2(2022-2023)\C#\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+D:\Documents\HK2(2022-2023)\C#\List\obj\Debug\List.exe
+D:\Documents\HK2(2022-2023)\C#\List\obj\Debug\List.pdb

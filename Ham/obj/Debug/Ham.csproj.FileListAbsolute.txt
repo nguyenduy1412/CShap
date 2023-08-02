@@ -1,0 +1,8 @@
+D:\Documents\HK2(2022-2023)\C#\Ham\bin\Debug\Ham.exe.config
+D:\Documents\HK2(2022-2023)\C#\Ham\bin\Debug\Ham.exe
+D:\Documents\HK2(2022-2023)\C#\Ham\bin\Debug\Ham.pdb
+D:\Documents\HK2(2022-2023)\C#\Ham\obj\Debug\Ham.csproj.AssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\Ham\obj\Debug\Ham.csproj.SuggestedBindingRedirects.cache
+D:\Documents\HK2(2022-2023)\C#\Ham\obj\Debug\Ham.csproj.CoreCompileInputs.cache
+D:\Documents\HK2(2022-2023)\C#\Ham\obj\Debug\Ham.exe
+D:\Documents\HK2(2022-2023)\C#\Ham\obj\Debug\Ham.pdb

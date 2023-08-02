@@ -1,0 +1,8 @@
+D:\Documents\HK2(2022-2023)\C#\GiaiPTB2\bin\Debug\GiaiPTB2.exe.config
+D:\Documents\HK2(2022-2023)\C#\GiaiPTB2\bin\Debug\GiaiPTB2.exe
+D:\Documents\HK2(2022-2023)\C#\GiaiPTB2\bin\Debug\GiaiPTB2.pdb
+D:\Documents\HK2(2022-2023)\C#\GiaiPTB2\obj\Debug\GiaiPTB2.csproj.AssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\GiaiPTB2\obj\Debug\GiaiPTB2.csproj.SuggestedBindingRedirects.cache
+D:\Documents\HK2(2022-2023)\C#\GiaiPTB2\obj\Debug\GiaiPTB2.csproj.CoreCompileInputs.cache
+D:\Documents\HK2(2022-2023)\C#\GiaiPTB2\obj\Debug\GiaiPTB2.exe
+D:\Documents\HK2(2022-2023)\C#\GiaiPTB2\obj\Debug\GiaiPTB2.pdb

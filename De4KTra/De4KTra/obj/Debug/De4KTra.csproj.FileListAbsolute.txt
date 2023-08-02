@@ -1,0 +1,9 @@
+D:\Documents\HK2(2022-2023)\C#\De4KTra\De4KTra\bin\Debug\De4KTra.exe.config
+D:\Documents\HK2(2022-2023)\C#\De4KTra\De4KTra\bin\Debug\De4KTra.exe
+D:\Documents\HK2(2022-2023)\C#\De4KTra\De4KTra\bin\Debug\De4KTra.pdb
+D:\Documents\HK2(2022-2023)\C#\De4KTra\De4KTra\obj\Debug\De4KTra.csprojResolveAssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\De4KTra\De4KTra\obj\Debug\De4KTra.Form1.resources
+D:\Documents\HK2(2022-2023)\C#\De4KTra\De4KTra\obj\Debug\De4KTra.Properties.Resources.resources
+D:\Documents\HK2(2022-2023)\C#\De4KTra\De4KTra\obj\Debug\De4KTra.csproj.GenerateResource.Cache
+D:\Documents\HK2(2022-2023)\C#\De4KTra\De4KTra\obj\Debug\De4KTra.exe
+D:\Documents\HK2(2022-2023)\C#\De4KTra\De4KTra\obj\Debug\De4KTra.pdb

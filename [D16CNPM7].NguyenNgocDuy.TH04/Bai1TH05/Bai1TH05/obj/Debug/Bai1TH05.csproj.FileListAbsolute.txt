@@ -1,0 +1,10 @@
+D:\Documents\HK2(2022-2023)\C#\Bai1TH05\Bai1TH05\bin\Debug\Bai1TH05.exe.config
+D:\Documents\HK2(2022-2023)\C#\Bai1TH05\Bai1TH05\bin\Debug\Bai1TH05.exe
+D:\Documents\HK2(2022-2023)\C#\Bai1TH05\Bai1TH05\bin\Debug\Bai1TH05.pdb
+D:\Documents\HK2(2022-2023)\C#\Bai1TH05\Bai1TH05\obj\Debug\Bai1TH05.Form1.resources
+D:\Documents\HK2(2022-2023)\C#\Bai1TH05\Bai1TH05\obj\Debug\Bai1TH05.Properties.Resources.resources
+D:\Documents\HK2(2022-2023)\C#\Bai1TH05\Bai1TH05\obj\Debug\Bai1TH05.csproj.GenerateResource.Cache
+D:\Documents\HK2(2022-2023)\C#\Bai1TH05\Bai1TH05\obj\Debug\Bai1TH05.exe
+D:\Documents\HK2(2022-2023)\C#\Bai1TH05\Bai1TH05\obj\Debug\Bai1TH05.pdb
+D:\Documents\HK2(2022-2023)\C#\Bai1TH05\Bai1TH05\obj\Debug\Bai1TH05.csproj.AssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\Bai1TH05\Bai1TH05\obj\Debug\Bai1TH05.csproj.CoreCompileInputs.cache

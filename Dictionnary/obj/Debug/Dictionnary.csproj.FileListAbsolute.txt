@@ -1,0 +1,8 @@
+D:\Documents\HK2(2022-2023)\C#\Dictionnary\obj\Debug\Dictionnary.csproj.AssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\Dictionnary\obj\Debug\Dictionnary.csproj.SuggestedBindingRedirects.cache
+D:\Documents\HK2(2022-2023)\C#\Dictionnary\obj\Debug\Dictionnary.csproj.CoreCompileInputs.cache
+D:\Documents\HK2(2022-2023)\C#\Dictionnary\bin\Debug\Dictionnary.exe.config
+D:\Documents\HK2(2022-2023)\C#\Dictionnary\bin\Debug\Dictionnary.exe
+D:\Documents\HK2(2022-2023)\C#\Dictionnary\bin\Debug\Dictionnary.pdb
+D:\Documents\HK2(2022-2023)\C#\Dictionnary\obj\Debug\Dictionnary.exe
+D:\Documents\HK2(2022-2023)\C#\Dictionnary\obj\Debug\Dictionnary.pdb

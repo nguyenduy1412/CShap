@@ -1,0 +1,8 @@
+D:\Documents\HK2(2022-2023)\C#\Chuoi\bin\Debug\Chuoi.exe.config
+D:\Documents\HK2(2022-2023)\C#\Chuoi\bin\Debug\Chuoi.exe
+D:\Documents\HK2(2022-2023)\C#\Chuoi\bin\Debug\Chuoi.pdb
+D:\Documents\HK2(2022-2023)\C#\Chuoi\obj\Debug\Chuoi.csproj.AssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\Chuoi\obj\Debug\Chuoi.csproj.SuggestedBindingRedirects.cache
+D:\Documents\HK2(2022-2023)\C#\Chuoi\obj\Debug\Chuoi.csproj.CoreCompileInputs.cache
+D:\Documents\HK2(2022-2023)\C#\Chuoi\obj\Debug\Chuoi.exe
+D:\Documents\HK2(2022-2023)\C#\Chuoi\obj\Debug\Chuoi.pdb

@@ -1,0 +1,8 @@
+D:\Documents\HK2(2022-2023)\C#\bai5\bin\Debug\bai5.exe.config
+D:\Documents\HK2(2022-2023)\C#\bai5\bin\Debug\bai5.exe
+D:\Documents\HK2(2022-2023)\C#\bai5\bin\Debug\bai5.pdb
+D:\Documents\HK2(2022-2023)\C#\bai5\obj\Debug\bai5.csproj.AssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\bai5\obj\Debug\bai5.csproj.SuggestedBindingRedirects.cache
+D:\Documents\HK2(2022-2023)\C#\bai5\obj\Debug\bai5.csproj.CoreCompileInputs.cache
+D:\Documents\HK2(2022-2023)\C#\bai5\obj\Debug\bai5.exe
+D:\Documents\HK2(2022-2023)\C#\bai5\obj\Debug\bai5.pdb

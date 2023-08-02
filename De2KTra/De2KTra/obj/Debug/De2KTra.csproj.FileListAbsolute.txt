@@ -1,0 +1,10 @@
+D:\Documents\HK2(2022-2023)\C#\De2KTra\De2KTra\bin\Debug\De2KTra.exe.config
+D:\Documents\HK2(2022-2023)\C#\De2KTra\De2KTra\bin\Debug\De2KTra.exe
+D:\Documents\HK2(2022-2023)\C#\De2KTra\De2KTra\bin\Debug\De2KTra.pdb
+D:\Documents\HK2(2022-2023)\C#\De2KTra\De2KTra\obj\Debug\De2KTra.Form1.resources
+D:\Documents\HK2(2022-2023)\C#\De2KTra\De2KTra\obj\Debug\De2KTra.Properties.Resources.resources
+D:\Documents\HK2(2022-2023)\C#\De2KTra\De2KTra\obj\Debug\De2KTra.csproj.GenerateResource.Cache
+D:\Documents\HK2(2022-2023)\C#\De2KTra\De2KTra\obj\Debug\De2KTra.exe
+D:\Documents\HK2(2022-2023)\C#\De2KTra\De2KTra\obj\Debug\De2KTra.pdb
+D:\Documents\HK2(2022-2023)\C#\De2KTra\De2KTra\obj\Debug\De2KTra.csproj.AssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\De2KTra\De2KTra\obj\Debug\De2KTra.csproj.CoreCompileInputs.cache

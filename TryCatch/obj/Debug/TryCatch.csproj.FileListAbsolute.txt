@@ -1,0 +1,8 @@
+D:\Documents\HK2(2022-2023)\C#\TryCatch\obj\Debug\TryCatch.csproj.AssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\TryCatch\obj\Debug\TryCatch.csproj.SuggestedBindingRedirects.cache
+D:\Documents\HK2(2022-2023)\C#\TryCatch\obj\Debug\TryCatch.csproj.CoreCompileInputs.cache
+D:\Documents\HK2(2022-2023)\C#\TryCatch\bin\Debug\TryCatch.exe.config
+D:\Documents\HK2(2022-2023)\C#\TryCatch\bin\Debug\TryCatch.exe
+D:\Documents\HK2(2022-2023)\C#\TryCatch\bin\Debug\TryCatch.pdb
+D:\Documents\HK2(2022-2023)\C#\TryCatch\obj\Debug\TryCatch.exe
+D:\Documents\HK2(2022-2023)\C#\TryCatch\obj\Debug\TryCatch.pdb

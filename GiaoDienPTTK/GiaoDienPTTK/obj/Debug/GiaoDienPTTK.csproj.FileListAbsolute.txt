@@ -1,0 +1,9 @@
+D:\Documents\HK2(2022-2023)\C#\GiaoDienPTTK\GiaoDienPTTK\bin\Debug\GiaoDienPTTK.exe.config
+D:\Documents\HK2(2022-2023)\C#\GiaoDienPTTK\GiaoDienPTTK\bin\Debug\GiaoDienPTTK.exe
+D:\Documents\HK2(2022-2023)\C#\GiaoDienPTTK\GiaoDienPTTK\bin\Debug\GiaoDienPTTK.pdb
+D:\Documents\HK2(2022-2023)\C#\GiaoDienPTTK\GiaoDienPTTK\obj\Debug\GiaoDienPTTK.csprojResolveAssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\GiaoDienPTTK\GiaoDienPTTK\obj\Debug\GiaoDienPTTK.Form1.resources
+D:\Documents\HK2(2022-2023)\C#\GiaoDienPTTK\GiaoDienPTTK\obj\Debug\GiaoDienPTTK.Properties.Resources.resources
+D:\Documents\HK2(2022-2023)\C#\GiaoDienPTTK\GiaoDienPTTK\obj\Debug\GiaoDienPTTK.csproj.GenerateResource.Cache
+D:\Documents\HK2(2022-2023)\C#\GiaoDienPTTK\GiaoDienPTTK\obj\Debug\GiaoDienPTTK.exe
+D:\Documents\HK2(2022-2023)\C#\GiaoDienPTTK\GiaoDienPTTK\obj\Debug\GiaoDienPTTK.pdb

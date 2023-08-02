@@ -1,0 +1,9 @@
+D:\Documents\HK2(2022-2023)\C#\CARO\CARO\bin\Debug\CARO.exe.config
+D:\Documents\HK2(2022-2023)\C#\CARO\CARO\obj\Debug\CARO.csprojResolveAssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\CARO\CARO\obj\Debug\CARO.Properties.Resources.resources
+D:\Documents\HK2(2022-2023)\C#\CARO\CARO\obj\Debug\CARO.csproj.GenerateResource.Cache
+D:\Documents\HK2(2022-2023)\C#\CARO\CARO\bin\Debug\CARO.exe
+D:\Documents\HK2(2022-2023)\C#\CARO\CARO\bin\Debug\CARO.pdb
+D:\Documents\HK2(2022-2023)\C#\CARO\CARO\obj\Debug\CARO.exe
+D:\Documents\HK2(2022-2023)\C#\CARO\CARO\obj\Debug\CARO.pdb
+D:\Documents\HK2(2022-2023)\C#\CARO\CARO\obj\Debug\CARO.Form1.resources

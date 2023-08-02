@@ -1,0 +1,4 @@
+D:\Documents\HK2(2022-2023)\C#\Bai10\Bai10\bin\Release\Bai10.exe.config
+D:\Documents\HK2(2022-2023)\C#\Bai10\Bai10\obj\Release\Bai10.Bai10.resources
+D:\Documents\HK2(2022-2023)\C#\Bai10\Bai10\obj\Release\Bai10.Properties.Resources.resources
+D:\Documents\HK2(2022-2023)\C#\Bai10\Bai10\obj\Release\Bai10.csproj.GenerateResource.Cache

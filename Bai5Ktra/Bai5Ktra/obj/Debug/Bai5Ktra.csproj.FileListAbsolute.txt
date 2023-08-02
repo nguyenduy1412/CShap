@@ -1,0 +1,9 @@
+D:\Documents\HK2(2022-2023)\C#\Bai5Ktra\Bai5Ktra\bin\Debug\Bai5Ktra.exe.config
+D:\Documents\HK2(2022-2023)\C#\Bai5Ktra\Bai5Ktra\obj\Debug\Bai5Ktra.csprojResolveAssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\Bai5Ktra\Bai5Ktra\obj\Debug\Bai5Ktra.Form1.resources
+D:\Documents\HK2(2022-2023)\C#\Bai5Ktra\Bai5Ktra\obj\Debug\Bai5Ktra.Properties.Resources.resources
+D:\Documents\HK2(2022-2023)\C#\Bai5Ktra\Bai5Ktra\obj\Debug\Bai5Ktra.csproj.GenerateResource.Cache
+D:\Documents\HK2(2022-2023)\C#\Bai5Ktra\Bai5Ktra\bin\Debug\Bai5Ktra.exe
+D:\Documents\HK2(2022-2023)\C#\Bai5Ktra\Bai5Ktra\bin\Debug\Bai5Ktra.pdb
+D:\Documents\HK2(2022-2023)\C#\Bai5Ktra\Bai5Ktra\obj\Debug\Bai5Ktra.exe
+D:\Documents\HK2(2022-2023)\C#\Bai5Ktra\Bai5Ktra\obj\Debug\Bai5Ktra.pdb

@@ -1,0 +1,12 @@
+D:\Documents\HK2(2022-2023)\C#\SinhVien\SinhVien\bin\Debug\SinhVien.exe.config
+D:\Documents\HK2(2022-2023)\C#\SinhVien\SinhVien\obj\Debug\SinhVien.csprojResolveAssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\SinhVien\SinhVien\obj\Debug\SinhVien.DangNhap.resources
+D:\Documents\HK2(2022-2023)\C#\SinhVien\SinhVien\obj\Debug\SinhVien.HeThong.resources
+D:\Documents\HK2(2022-2023)\C#\SinhVien\SinhVien\obj\Debug\SinhVien.Properties.Resources.resources
+D:\Documents\HK2(2022-2023)\C#\SinhVien\SinhVien\obj\Debug\SinhVien.csproj.GenerateResource.Cache
+D:\Documents\HK2(2022-2023)\C#\SinhVien\SinhVien\bin\Debug\SinhVien.exe
+D:\Documents\HK2(2022-2023)\C#\SinhVien\SinhVien\bin\Debug\SinhVien.pdb
+D:\Documents\HK2(2022-2023)\C#\SinhVien\SinhVien\obj\Debug\SinhVien.exe
+D:\Documents\HK2(2022-2023)\C#\SinhVien\SinhVien\obj\Debug\SinhVien.pdb
+D:\Documents\HK2(2022-2023)\C#\SinhVien\SinhVien\obj\Debug\SinhVien.Lop.resources
+D:\Documents\HK2(2022-2023)\C#\SinhVien\SinhVien\obj\Debug\SinhVien.Diem.resources

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai33", "Bai33\Bai33.csproj", "{B906AC29-C72D-4AE8-AC64-45A468A65E1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B906AC29-C72D-4AE8-AC64-45A468A65E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B906AC29-C72D-4AE8-AC64-45A468A65E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B906AC29-C72D-4AE8-AC64-45A468A65E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B906AC29-C72D-4AE8-AC64-45A468A65E1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

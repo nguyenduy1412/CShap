@@ -1,0 +1,9 @@
+D:\Documents\HK2(2022-2023)\C#\Baitaprenluyen\Baitaprenluyen\bin\Debug\Baitaprenluyen.exe.config
+D:\Documents\HK2(2022-2023)\C#\Baitaprenluyen\Baitaprenluyen\bin\Debug\Baitaprenluyen.exe
+D:\Documents\HK2(2022-2023)\C#\Baitaprenluyen\Baitaprenluyen\bin\Debug\Baitaprenluyen.pdb
+D:\Documents\HK2(2022-2023)\C#\Baitaprenluyen\Baitaprenluyen\obj\Debug\Baitaprenluyen.csproj.AssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\Baitaprenluyen\Baitaprenluyen\obj\Debug\Baitaprenluyen.Properties.Resources.resources
+D:\Documents\HK2(2022-2023)\C#\Baitaprenluyen\Baitaprenluyen\obj\Debug\Baitaprenluyen.csproj.GenerateResource.cache
+D:\Documents\HK2(2022-2023)\C#\Baitaprenluyen\Baitaprenluyen\obj\Debug\Baitaprenluyen.csproj.CoreCompileInputs.cache
+D:\Documents\HK2(2022-2023)\C#\Baitaprenluyen\Baitaprenluyen\obj\Debug\Baitaprenluyen.exe
+D:\Documents\HK2(2022-2023)\C#\Baitaprenluyen\Baitaprenluyen\obj\Debug\Baitaprenluyen.pdb

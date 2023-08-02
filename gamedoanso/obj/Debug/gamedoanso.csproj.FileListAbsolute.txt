@@ -1,0 +1,8 @@
+D:\Documents\HK2(2022-2023)\C#\gamedoanso\bin\Debug\gamedoanso.exe.config
+D:\Documents\HK2(2022-2023)\C#\gamedoanso\bin\Debug\gamedoanso.exe
+D:\Documents\HK2(2022-2023)\C#\gamedoanso\bin\Debug\gamedoanso.pdb
+D:\Documents\HK2(2022-2023)\C#\gamedoanso\obj\Debug\gamedoanso.csproj.AssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\gamedoanso\obj\Debug\gamedoanso.csproj.SuggestedBindingRedirects.cache
+D:\Documents\HK2(2022-2023)\C#\gamedoanso\obj\Debug\gamedoanso.csproj.CoreCompileInputs.cache
+D:\Documents\HK2(2022-2023)\C#\gamedoanso\obj\Debug\gamedoanso.exe
+D:\Documents\HK2(2022-2023)\C#\gamedoanso\obj\Debug\gamedoanso.pdb

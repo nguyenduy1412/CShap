@@ -1,0 +1,9 @@
+D:\Documents\HK2(2022-2023)\C#\Bai10Ktra\Bai10Ktra\bin\Debug\Bai10Ktra.exe.config
+D:\Documents\HK2(2022-2023)\C#\Bai10Ktra\Bai10Ktra\obj\Debug\Bai10Ktra.csprojResolveAssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\Bai10Ktra\Bai10Ktra\obj\Debug\Bai10Ktra.Form1.resources
+D:\Documents\HK2(2022-2023)\C#\Bai10Ktra\Bai10Ktra\obj\Debug\Bai10Ktra.Properties.Resources.resources
+D:\Documents\HK2(2022-2023)\C#\Bai10Ktra\Bai10Ktra\obj\Debug\Bai10Ktra.csproj.GenerateResource.Cache
+D:\Documents\HK2(2022-2023)\C#\Bai10Ktra\Bai10Ktra\bin\Debug\Bai10Ktra.exe
+D:\Documents\HK2(2022-2023)\C#\Bai10Ktra\Bai10Ktra\bin\Debug\Bai10Ktra.pdb
+D:\Documents\HK2(2022-2023)\C#\Bai10Ktra\Bai10Ktra\obj\Debug\Bai10Ktra.exe
+D:\Documents\HK2(2022-2023)\C#\Bai10Ktra\Bai10Ktra\obj\Debug\Bai10Ktra.pdb

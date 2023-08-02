@@ -1,0 +1,11 @@
+D:\Documents\HK2(2022-2023)\C#\QLBH\QLBH\bin\Debug\QLBH.exe.config
+D:\Documents\HK2(2022-2023)\C#\QLBH\QLBH\obj\Debug\QLBH.csprojResolveAssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\QLBH\QLBH\obj\Debug\QLBH.frmHeThong.resources
+D:\Documents\HK2(2022-2023)\C#\QLBH\QLBH\obj\Debug\QLBH.Properties.Resources.resources
+D:\Documents\HK2(2022-2023)\C#\QLBH\QLBH\obj\Debug\QLBH.csproj.GenerateResource.Cache
+D:\Documents\HK2(2022-2023)\C#\QLBH\QLBH\bin\Debug\QLBH.exe
+D:\Documents\HK2(2022-2023)\C#\QLBH\QLBH\bin\Debug\QLBH.pdb
+D:\Documents\HK2(2022-2023)\C#\QLBH\QLBH\obj\Debug\QLBH.exe
+D:\Documents\HK2(2022-2023)\C#\QLBH\QLBH\obj\Debug\QLBH.pdb
+D:\Documents\HK2(2022-2023)\C#\QLBH\QLBH\obj\Debug\QLBH.frmDangNhap.resources
+D:\Documents\HK2(2022-2023)\C#\QLBH\QLBH\obj\Debug\QLBH.frmSanPham.resources

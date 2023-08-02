@@ -1,0 +1,12 @@
+D:\Documents\HK2(2022-2023)\C#\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe.config
+D:\Documents\HK2(2022-2023)\C#\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csprojResolveAssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.DangNhap.resources
+D:\Documents\HK2(2022-2023)\C#\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.HeThong.resources
+D:\Documents\HK2(2022-2023)\C#\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.Properties.Resources.resources
+D:\Documents\HK2(2022-2023)\C#\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.GenerateResource.Cache
+D:\Documents\HK2(2022-2023)\C#\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe
+D:\Documents\HK2(2022-2023)\C#\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.pdb
+D:\Documents\HK2(2022-2023)\C#\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.exe
+D:\Documents\HK2(2022-2023)\C#\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.pdb
+D:\Documents\HK2(2022-2023)\C#\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.LoaiNhanVien.resources
+D:\Documents\HK2(2022-2023)\C#\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.NhanVien.resources

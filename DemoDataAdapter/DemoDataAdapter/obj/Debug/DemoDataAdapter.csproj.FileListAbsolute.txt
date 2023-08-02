@@ -1,0 +1,10 @@
+D:\Documents\HK2(2022-2023)\C#\DemoDataAdapter\DemoDataAdapter\bin\Debug\DemoDataAdapter.exe.config
+D:\Documents\HK2(2022-2023)\C#\DemoDataAdapter\DemoDataAdapter\obj\Debug\DemoDataAdapter.csproj.AssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\DemoDataAdapter\DemoDataAdapter\obj\Debug\DemoDataAdapter.Form1.resources
+D:\Documents\HK2(2022-2023)\C#\DemoDataAdapter\DemoDataAdapter\obj\Debug\DemoDataAdapter.Properties.Resources.resources
+D:\Documents\HK2(2022-2023)\C#\DemoDataAdapter\DemoDataAdapter\obj\Debug\DemoDataAdapter.csproj.GenerateResource.cache
+D:\Documents\HK2(2022-2023)\C#\DemoDataAdapter\DemoDataAdapter\obj\Debug\DemoDataAdapter.csproj.CoreCompileInputs.cache
+D:\Documents\HK2(2022-2023)\C#\DemoDataAdapter\DemoDataAdapter\bin\Debug\DemoDataAdapter.exe
+D:\Documents\HK2(2022-2023)\C#\DemoDataAdapter\DemoDataAdapter\bin\Debug\DemoDataAdapter.pdb
+D:\Documents\HK2(2022-2023)\C#\DemoDataAdapter\DemoDataAdapter\obj\Debug\DemoDataAdapter.exe
+D:\Documents\HK2(2022-2023)\C#\DemoDataAdapter\DemoDataAdapter\obj\Debug\DemoDataAdapter.pdb

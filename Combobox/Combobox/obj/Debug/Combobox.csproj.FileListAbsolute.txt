@@ -1,0 +1,9 @@
+D:\Documents\HK2(2022-2023)\C#\Combobox\Combobox\bin\Debug\Combobox.exe.config
+D:\Documents\HK2(2022-2023)\C#\Combobox\Combobox\bin\Debug\Combobox.exe
+D:\Documents\HK2(2022-2023)\C#\Combobox\Combobox\bin\Debug\Combobox.pdb
+D:\Documents\HK2(2022-2023)\C#\Combobox\Combobox\obj\Debug\Combobox.csprojResolveAssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\Combobox\Combobox\obj\Debug\Combobox.Form1.resources
+D:\Documents\HK2(2022-2023)\C#\Combobox\Combobox\obj\Debug\Combobox.Properties.Resources.resources
+D:\Documents\HK2(2022-2023)\C#\Combobox\Combobox\obj\Debug\Combobox.csproj.GenerateResource.Cache
+D:\Documents\HK2(2022-2023)\C#\Combobox\Combobox\obj\Debug\Combobox.exe
+D:\Documents\HK2(2022-2023)\C#\Combobox\Combobox\obj\Debug\Combobox.pdb

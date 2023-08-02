@@ -1,0 +1,9 @@
+D:\Documents\HK2(2022-2023)\C#\WinForm3\WinForm3\bin\Debug\WinForm3.exe.config
+D:\Documents\HK2(2022-2023)\C#\WinForm3\WinForm3\obj\Debug\WinForm3.csprojResolveAssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\WinForm3\WinForm3\obj\Debug\WinForm3.Form1.resources
+D:\Documents\HK2(2022-2023)\C#\WinForm3\WinForm3\obj\Debug\WinForm3.Properties.Resources.resources
+D:\Documents\HK2(2022-2023)\C#\WinForm3\WinForm3\obj\Debug\WinForm3.csproj.GenerateResource.Cache
+D:\Documents\HK2(2022-2023)\C#\WinForm3\WinForm3\bin\Debug\WinForm3.exe
+D:\Documents\HK2(2022-2023)\C#\WinForm3\WinForm3\bin\Debug\WinForm3.pdb
+D:\Documents\HK2(2022-2023)\C#\WinForm3\WinForm3\obj\Debug\WinForm3.exe
+D:\Documents\HK2(2022-2023)\C#\WinForm3\WinForm3\obj\Debug\WinForm3.pdb

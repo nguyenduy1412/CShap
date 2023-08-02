@@ -1,0 +1,10 @@
+D:\Documents\HK2(2022-2023)\C#\CheckedListBõ\CheckedListBõ\bin\Debug\CheckedListBõ.exe.config
+D:\Documents\HK2(2022-2023)\C#\CheckedListBõ\CheckedListBõ\bin\Debug\CheckedListBõ.exe
+D:\Documents\HK2(2022-2023)\C#\CheckedListBõ\CheckedListBõ\bin\Debug\CheckedListBõ.pdb
+D:\Documents\HK2(2022-2023)\C#\CheckedListBõ\CheckedListBõ\obj\Debug\CheckedListBõ.Form1.resources
+D:\Documents\HK2(2022-2023)\C#\CheckedListBõ\CheckedListBõ\obj\Debug\CheckedListBõ.Properties.Resources.resources
+D:\Documents\HK2(2022-2023)\C#\CheckedListBõ\CheckedListBõ\obj\Debug\CheckedListBox.csproj.GenerateResource.Cache
+D:\Documents\HK2(2022-2023)\C#\CheckedListBõ\CheckedListBõ\obj\Debug\CheckedListBõ.exe
+D:\Documents\HK2(2022-2023)\C#\CheckedListBõ\CheckedListBõ\obj\Debug\CheckedListBõ.pdb
+D:\Documents\HK2(2022-2023)\C#\CheckedListBõ\CheckedListBõ\obj\Debug\CheckedListBox.csproj.AssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\CheckedListBõ\CheckedListBõ\obj\Debug\CheckedListBox.csproj.CoreCompileInputs.cache

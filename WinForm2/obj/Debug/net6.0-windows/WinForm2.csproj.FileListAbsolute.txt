@@ -1,0 +1,17 @@
+D:\Documents\HK2(2022-2023)\C#\WinForm2\bin\Debug\net6.0-windows\WinForm2.exe
+D:\Documents\HK2(2022-2023)\C#\WinForm2\bin\Debug\net6.0-windows\WinForm2.deps.json
+D:\Documents\HK2(2022-2023)\C#\WinForm2\bin\Debug\net6.0-windows\WinForm2.runtimeconfig.json
+D:\Documents\HK2(2022-2023)\C#\WinForm2\bin\Debug\net6.0-windows\WinForm2.dll
+D:\Documents\HK2(2022-2023)\C#\WinForm2\bin\Debug\net6.0-windows\WinForm2.pdb
+D:\Documents\HK2(2022-2023)\C#\WinForm2\obj\Debug\net6.0-windows\WinForm2.csproj.AssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\WinForm2\obj\Debug\net6.0-windows\WinForm2.Form1.resources
+D:\Documents\HK2(2022-2023)\C#\WinForm2\obj\Debug\net6.0-windows\WinForm2.csproj.GenerateResource.cache
+D:\Documents\HK2(2022-2023)\C#\WinForm2\obj\Debug\net6.0-windows\WinForm2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\HK2(2022-2023)\C#\WinForm2\obj\Debug\net6.0-windows\WinForm2.AssemblyInfoInputs.cache
+D:\Documents\HK2(2022-2023)\C#\WinForm2\obj\Debug\net6.0-windows\WinForm2.AssemblyInfo.cs
+D:\Documents\HK2(2022-2023)\C#\WinForm2\obj\Debug\net6.0-windows\WinForm2.csproj.CoreCompileInputs.cache
+D:\Documents\HK2(2022-2023)\C#\WinForm2\obj\Debug\net6.0-windows\WinForm2.dll
+D:\Documents\HK2(2022-2023)\C#\WinForm2\obj\Debug\net6.0-windows\refint\WinForm2.dll
+D:\Documents\HK2(2022-2023)\C#\WinForm2\obj\Debug\net6.0-windows\WinForm2.pdb
+D:\Documents\HK2(2022-2023)\C#\WinForm2\obj\Debug\net6.0-windows\WinForm2.genruntimeconfig.cache
+D:\Documents\HK2(2022-2023)\C#\WinForm2\obj\Debug\net6.0-windows\ref\WinForm2.dll

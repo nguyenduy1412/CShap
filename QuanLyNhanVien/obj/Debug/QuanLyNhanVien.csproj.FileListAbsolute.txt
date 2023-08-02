@@ -1,0 +1,8 @@
+D:\Documents\HK2(2022-2023)\C#\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.AssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.SuggestedBindingRedirects.cache
+D:\Documents\HK2(2022-2023)\C#\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.CoreCompileInputs.cache
+D:\Documents\HK2(2022-2023)\C#\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe.config
+D:\Documents\HK2(2022-2023)\C#\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe
+D:\Documents\HK2(2022-2023)\C#\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.pdb
+D:\Documents\HK2(2022-2023)\C#\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.exe
+D:\Documents\HK2(2022-2023)\C#\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.pdb

@@ -1,0 +1,10 @@
+D:\Documents\HK2(2022-2023)\C#\Bai30\Bai30\bin\Debug\Bai30.exe.config
+D:\Documents\HK2(2022-2023)\C#\Bai30\Bai30\bin\Debug\Bai30.exe
+D:\Documents\HK2(2022-2023)\C#\Bai30\Bai30\bin\Debug\Bai30.pdb
+D:\Documents\HK2(2022-2023)\C#\Bai30\Bai30\obj\Debug\Bai30.Form1.resources
+D:\Documents\HK2(2022-2023)\C#\Bai30\Bai30\obj\Debug\Bai30.Properties.Resources.resources
+D:\Documents\HK2(2022-2023)\C#\Bai30\Bai30\obj\Debug\Bai30.csproj.GenerateResource.Cache
+D:\Documents\HK2(2022-2023)\C#\Bai30\Bai30\obj\Debug\Bai30.exe
+D:\Documents\HK2(2022-2023)\C#\Bai30\Bai30\obj\Debug\Bai30.pdb
+D:\Documents\HK2(2022-2023)\C#\Bai30\Bai30\obj\Debug\Bai30.csprojResolveAssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\Bai30\Bai30\obj\Debug\Bai30.frmSinhVien.resources

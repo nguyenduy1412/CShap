@@ -1,0 +1,17 @@
+D:\Documents\HK2(2022-2023)\C#\Cau4TH02\bin\Debug\net6.0-windows\Cau4TH02.exe
+D:\Documents\HK2(2022-2023)\C#\Cau4TH02\bin\Debug\net6.0-windows\Cau4TH02.deps.json
+D:\Documents\HK2(2022-2023)\C#\Cau4TH02\bin\Debug\net6.0-windows\Cau4TH02.runtimeconfig.json
+D:\Documents\HK2(2022-2023)\C#\Cau4TH02\bin\Debug\net6.0-windows\Cau4TH02.dll
+D:\Documents\HK2(2022-2023)\C#\Cau4TH02\bin\Debug\net6.0-windows\Cau4TH02.pdb
+D:\Documents\HK2(2022-2023)\C#\Cau4TH02\obj\Debug\net6.0-windows\Cau4TH02.csproj.AssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\Cau4TH02\obj\Debug\net6.0-windows\Cau4TH02.Form1.resources
+D:\Documents\HK2(2022-2023)\C#\Cau4TH02\obj\Debug\net6.0-windows\Cau4TH02.csproj.GenerateResource.cache
+D:\Documents\HK2(2022-2023)\C#\Cau4TH02\obj\Debug\net6.0-windows\Cau4TH02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\HK2(2022-2023)\C#\Cau4TH02\obj\Debug\net6.0-windows\Cau4TH02.AssemblyInfoInputs.cache
+D:\Documents\HK2(2022-2023)\C#\Cau4TH02\obj\Debug\net6.0-windows\Cau4TH02.AssemblyInfo.cs
+D:\Documents\HK2(2022-2023)\C#\Cau4TH02\obj\Debug\net6.0-windows\Cau4TH02.csproj.CoreCompileInputs.cache
+D:\Documents\HK2(2022-2023)\C#\Cau4TH02\obj\Debug\net6.0-windows\Cau4TH02.dll
+D:\Documents\HK2(2022-2023)\C#\Cau4TH02\obj\Debug\net6.0-windows\refint\Cau4TH02.dll
+D:\Documents\HK2(2022-2023)\C#\Cau4TH02\obj\Debug\net6.0-windows\Cau4TH02.pdb
+D:\Documents\HK2(2022-2023)\C#\Cau4TH02\obj\Debug\net6.0-windows\Cau4TH02.genruntimeconfig.cache
+D:\Documents\HK2(2022-2023)\C#\Cau4TH02\obj\Debug\net6.0-windows\ref\Cau4TH02.dll

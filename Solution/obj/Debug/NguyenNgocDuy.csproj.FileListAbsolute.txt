@@ -1,0 +1,8 @@
+D:\Documents\HK2(2022-2023)\C#\Solution\bin\Debug\NguyenNgocDuy.exe.config
+D:\Documents\HK2(2022-2023)\C#\Solution\bin\Debug\NguyenNgocDuy.exe
+D:\Documents\HK2(2022-2023)\C#\Solution\bin\Debug\NguyenNgocDuy.pdb
+D:\Documents\HK2(2022-2023)\C#\Solution\obj\Debug\NguyenNgocDuy.csproj.AssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\Solution\obj\Debug\NguyenNgocDuy.csproj.SuggestedBindingRedirects.cache
+D:\Documents\HK2(2022-2023)\C#\Solution\obj\Debug\NguyenNgocDuy.csproj.CoreCompileInputs.cache
+D:\Documents\HK2(2022-2023)\C#\Solution\obj\Debug\NguyenNgocDuy.exe
+D:\Documents\HK2(2022-2023)\C#\Solution\obj\Debug\NguyenNgocDuy.pdb

@@ -1,0 +1,17 @@
+D:\Documents\HK2(2022-2023)\C#\TH05\bin\Debug\net6.0-windows\TH05.exe
+D:\Documents\HK2(2022-2023)\C#\TH05\bin\Debug\net6.0-windows\TH05.deps.json
+D:\Documents\HK2(2022-2023)\C#\TH05\bin\Debug\net6.0-windows\TH05.runtimeconfig.json
+D:\Documents\HK2(2022-2023)\C#\TH05\bin\Debug\net6.0-windows\TH05.dll
+D:\Documents\HK2(2022-2023)\C#\TH05\bin\Debug\net6.0-windows\TH05.pdb
+D:\Documents\HK2(2022-2023)\C#\TH05\obj\Debug\net6.0-windows\TH05.csproj.AssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\TH05\obj\Debug\net6.0-windows\TH05.csproj.GenerateResource.cache
+D:\Documents\HK2(2022-2023)\C#\TH05\obj\Debug\net6.0-windows\TH05.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\HK2(2022-2023)\C#\TH05\obj\Debug\net6.0-windows\TH05.AssemblyInfoInputs.cache
+D:\Documents\HK2(2022-2023)\C#\TH05\obj\Debug\net6.0-windows\TH05.AssemblyInfo.cs
+D:\Documents\HK2(2022-2023)\C#\TH05\obj\Debug\net6.0-windows\TH05.csproj.CoreCompileInputs.cache
+D:\Documents\HK2(2022-2023)\C#\TH05\obj\Debug\net6.0-windows\TH05.dll
+D:\Documents\HK2(2022-2023)\C#\TH05\obj\Debug\net6.0-windows\refint\TH05.dll
+D:\Documents\HK2(2022-2023)\C#\TH05\obj\Debug\net6.0-windows\TH05.pdb
+D:\Documents\HK2(2022-2023)\C#\TH05\obj\Debug\net6.0-windows\TH05.genruntimeconfig.cache
+D:\Documents\HK2(2022-2023)\C#\TH05\obj\Debug\net6.0-windows\ref\TH05.dll
+D:\Documents\HK2(2022-2023)\C#\TH05\obj\Debug\net6.0-windows\TH05.CD.resources

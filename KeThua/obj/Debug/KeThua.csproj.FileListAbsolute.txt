@@ -1,0 +1,8 @@
+D:\Documents\HK2(2022-2023)\C#\KeThua\bin\Debug\KeThua.exe.config
+D:\Documents\HK2(2022-2023)\C#\KeThua\bin\Debug\KeThua.exe
+D:\Documents\HK2(2022-2023)\C#\KeThua\bin\Debug\KeThua.pdb
+D:\Documents\HK2(2022-2023)\C#\KeThua\obj\Debug\KeThua.csproj.AssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\KeThua\obj\Debug\KeThua.csproj.SuggestedBindingRedirects.cache
+D:\Documents\HK2(2022-2023)\C#\KeThua\obj\Debug\KeThua.csproj.CoreCompileInputs.cache
+D:\Documents\HK2(2022-2023)\C#\KeThua\obj\Debug\KeThua.exe
+D:\Documents\HK2(2022-2023)\C#\KeThua\obj\Debug\KeThua.pdb

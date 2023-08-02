@@ -1,0 +1,8 @@
+D:\Documents\HK2(2022-2023)\C#\BaiTapTuDien\bin\Debug\BaiTapTuDien.exe.config
+D:\Documents\HK2(2022-2023)\C#\BaiTapTuDien\bin\Debug\BaiTapTuDien.exe
+D:\Documents\HK2(2022-2023)\C#\BaiTapTuDien\bin\Debug\BaiTapTuDien.pdb
+D:\Documents\HK2(2022-2023)\C#\BaiTapTuDien\obj\Debug\BaiTapTuDien.csproj.AssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\BaiTapTuDien\obj\Debug\BaiTapTuDien.csproj.SuggestedBindingRedirects.cache
+D:\Documents\HK2(2022-2023)\C#\BaiTapTuDien\obj\Debug\BaiTapTuDien.csproj.CoreCompileInputs.cache
+D:\Documents\HK2(2022-2023)\C#\BaiTapTuDien\obj\Debug\BaiTapTuDien.exe
+D:\Documents\HK2(2022-2023)\C#\BaiTapTuDien\obj\Debug\BaiTapTuDien.pdb

@@ -1,0 +1,10 @@
+D:\Documents\HK2(2022-2023)\C#\QLNV\QLNV\bin\Debug\QLNV.exe.config
+D:\Documents\HK2(2022-2023)\C#\QLNV\QLNV\bin\Debug\QLNV.exe
+D:\Documents\HK2(2022-2023)\C#\QLNV\QLNV\bin\Debug\QLNV.pdb
+D:\Documents\HK2(2022-2023)\C#\QLNV\QLNV\obj\Debug\QLNV.csprojResolveAssemblyReference.cache
+D:\Documents\HK2(2022-2023)\C#\QLNV\QLNV\obj\Debug\QLNV.QLNV.resources
+D:\Documents\HK2(2022-2023)\C#\QLNV\QLNV\obj\Debug\QLNV.Form2.resources
+D:\Documents\HK2(2022-2023)\C#\QLNV\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+D:\Documents\HK2(2022-2023)\C#\QLNV\QLNV\obj\Debug\QLNV.csproj.GenerateResource.Cache
+D:\Documents\HK2(2022-2023)\C#\QLNV\QLNV\obj\Debug\QLNV.exe
+D:\Documents\HK2(2022-2023)\C#\QLNV\QLNV\obj\Debug\QLNV.pdb
